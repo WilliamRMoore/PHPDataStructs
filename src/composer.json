@@ -1,0 +1,19 @@
+{
+    "name": "will/src",
+    "description": "Data Structure Library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DSL\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "william",
+            "email": "williamrmoore93@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
